@@ -1,0 +1,10 @@
+bom: hw/sch_pcb/UNISERIAL01.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/UNISERIAL01.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/UNISERIAL01
+summary: Module is designed to connection of shielded multi wire cable to sensitive
+  MLAB modules. The module contains over voltage protection. It can be used to connection
+  of I2C, RS232, RS485 or CAN physical layers.

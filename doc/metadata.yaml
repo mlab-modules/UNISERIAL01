@@ -1,0 +1,19 @@
+description: Module is designed to connection of shielded multi wire cable to sensitive
+  MLAB modules. The module contains over voltage protection. It can be used to connection
+  of I2C, RS232, RS485 or CAN physical layers.
+github_branch: UNISERIAL01A
+github_description: Module is designed to connection of shielded multi wire cable
+  to sensitive MLAB modules. The module contains over voltage protection. It can be
+  used to connection of I2C, RS232, RS485 or CAN physical layers.
+github_repo: UNISERIAL01
+github_url: https://github.com/mlab-modules/UNISERIAL01
+homepage: false
+images:
+- doc/img/UNISERIAL01A_top_small.jpg
+- doc/img/UNISERIAL01A_top_big.jpg
+- doc/img/UNISERIAL01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: UNISERIAL01
+updated: '2023-09-17T11:37:42.579115+00:00'
